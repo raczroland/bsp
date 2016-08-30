@@ -1,0 +1,6 @@
+{
+    "name": "alphabox/bsp",
+    "require": {
+        "twbs/bootstrap": "^3.3"
+    }
+}
